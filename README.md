@@ -38,3 +38,9 @@ The Central data follows the schema shown below:
 
 ![Screenshots_schema](https://user-images.githubusercontent.com/78127092/132079229-66b6057e-253a-48d6-99b8-72619ec77f5d.png)
 
+
+## Data Handling
+
+The provided code in this repository can be used as it follows:
+* Load Data: Allow access to the individual information od each table and allows you to create the database and load the corresponding data.
+* Maestra: Allows the corresponding code to create the central table.
